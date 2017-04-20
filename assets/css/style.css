@@ -50,4 +50,9 @@ html, body{
 
 #contacto h5{
 	display:inline-block;
+	
+}
+
+.grey.darken-4 {
+    margin: -7px;
 }
